@@ -1,8 +1,2 @@
-# TowerDefensePractice
-unity塔防游戏练习
-
-## mac版成品地址
-
-链接: `https://pan.baidu.com/s/1dEPUx37` 密码: `gtv1`
-
-
+# IF687-Multim-dia	# IF687-Multimidia
+Project made during the course of Introduction to Multimida (IF687) CIn - UFPE. Game made using the Unity 3D platform. The game is in the Tower Defense genre.
